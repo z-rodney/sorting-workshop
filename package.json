@@ -1,0 +1,20 @@
+{
+  "name": "sorting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bubblesort.js",
+  "scripts": {
+    "test": "npx jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z-rodney/sorting-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z-rodney/sorting-workshop/issues"
+  },
+  "homepage": "https://github.com/z-rodney/sorting-workshop#readme"
+}
